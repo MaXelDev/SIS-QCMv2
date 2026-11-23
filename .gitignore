@@ -1,0 +1,18 @@
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Le PDF du poly ne doit pas être publié (seules les pages extraites dans cours/ le sont)
+*.pdf
+
+# Divers
+node_modules/
+*.zip
+*.log
